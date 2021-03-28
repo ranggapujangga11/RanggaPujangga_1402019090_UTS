@@ -1,5 +1,5 @@
 <?php
 
-include_once("Calculator_3D.html");
+include_once("index.html");
 
 ?>
